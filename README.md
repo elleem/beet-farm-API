@@ -1,4 +1,4 @@
-## Project: Django REST Framework and Docker
+## Project: Django REST Permissions and Postgresql
 
 Author: Lauren Main
 
@@ -6,11 +6,11 @@ Version 1.0
 
 ### Links and Resources
 
-
+Thanks to The Office for the fun beet farm quotes. 
 
 ### Overview
 
-Updating Django REST  API, by adding Permissions and Postgresql Database. 
+Updating Django REST API, by adding Permissions and Postgresql Database. 
 
 #### Features
 
